@@ -1,4 +1,4 @@
-## Hi there! I'm Pravallika Pataballa 👋
+## Hi there! I'm Pravallika 👋
 
 <!--
 **pataballapravallika/pataballapravallika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

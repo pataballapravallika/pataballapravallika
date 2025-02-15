@@ -1,3 +1,4 @@
+# Hai I'm Pravallika
 # 💫 About Me:
 🎤 I'm currently working on: React and Node.js projects.<br><br>🎭 I'm looking to collaborate on: Machine Learning, Deep Learning, and Full-Stack Projects.<br><br>🤝 I'm looking for help with: Optimizing Retrieval-Augmented Generation (RAG) models for better search results.<br><br>🌱 I'm currently learning: DevOps, AWS Cloud, and Kubernetes.<br><br>💬 Ask me about: Machine Learning, NLP, Django, and Computer Vision.<br><br>⚡ Fun fact: I love exploring new tech stacks and automating tasks for fun!
 

@@ -7,8 +7,7 @@
 **Growth Lead at Nextwork**  
 > Building and scaling learning systems around AI & Machine Learning  
 
-🧠 20 years old  
-👩‍🎓 Part of a **145,000+ student learning community** in AI & Cloud  
+🧠 21 years old  
 🤖 Deeply interested in **Machine Learning, Applied AI, and AI Systems**
 
 ---

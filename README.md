@@ -4,8 +4,6 @@
 
 # Hi, I’m Pravallika 👋  
 
-**Growth Lead at Nextwork**  
-> Building and scaling learning systems around AI & Machine Learning  
 
 🧠 21 years old  
 🤖 Deeply interested in **Machine Learning, Applied AI, and AI Systems**

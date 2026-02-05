@@ -2,7 +2,7 @@
 <!-- 👋 AI / ML PROFILE HERO -->
 <!-- ========================= -->
 
-# Hi, I’m Pravallika 👋  
+# Pravallika Pataballa 👋  
 
 
 🧠 21 years old  
